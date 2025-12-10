@@ -24,7 +24,7 @@ This is my first HTML & CSS project, and I coded it entirely on my own. It was a
 ### Links
 
 - Solution URL: (https://github.com/ahmed-maher0/QR-code-component-challenge01)
-- Live Site URL: (https://ahmed-maher0.github.io/QR-code-component-challenge01/)
+- Live Site URL: (https://ahmed-maher0.github.io/qr-code-component-challenge01/)
 
 ## My process
 
